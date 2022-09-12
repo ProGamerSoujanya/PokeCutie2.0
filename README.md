@@ -15,11 +15,21 @@ Absolutely no ! We are not pay to win. However the bot gives very less money so 
 
 We are attaching a complete guide about running this bot in your server/vps/repl.it/ or any other platform. 
 
-Step 1 : Clone this repo and install node v14 
-Stpe 2 : Fill out config.js and other things needed (For token make a secret/.env named TOKEN and paste your bot token there)
-Step 3 : Make your database with shards from mongodb [GUIDE](https://youtu.be/FW6HQR9Hm-0)
-Step 4 : Run It by node server.js 
+Step 1 : 
+Install Node v14 
+
+Step 2 : 
+Clone this project ```git clone https://github.com/PokeCutie/PokeCutie2.0.git``` 
+
+Step 3 : Fill out config.js (If you are using repl.it/glitch put the secrets in .env file) 
+
+Step 4 : Press run/Type node server.js 
+
 Step 5 : Enjoy 
+
+
+# NOTE : THIS IS NOT THE REAL CODE AND DOES NOT CONTAIN MANY PARTS : FOR REAL CODE JOIN https://dsc.gg/coderzhangout
+
 
 # PLANS FOR FUTURE  : 
 We have planned several things for future however due to lack of experienced developers we are unable to execute the plans . Please dm me if u are good a discord.js 
@@ -28,7 +38,12 @@ Plan 1 : Incense System
 Plan 2 : Gym System 
 Plan 3 : Battle with 6 mons.
 
-# JOIN SUPPORT SERVER 
-https://discord.gg/hPHvF8BggE
 
-# [ADD POKECUTIE2.0](https://discord.com/api/oauth2/authorize?client_id=928676583298977802&permissions=8&scope=bot%20applications.commands)
+# WE ARE OPEN TO CONTRIBUTIONS : 
+https://discord.gg/t4PVqjTHKz 
+
+
+# [JOIN SUPPORT SERVER ](https://discord.gg/t4PVqjTHKz)
+
+
+# [ADD POKECUTIE2.0](https://discord.com/api/oauth2/authorize?client_id=979052704108257290&permissions=8&scope=bot%20applications.commands)
